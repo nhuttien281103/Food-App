@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Jost:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family:
+    'Jost',
+    sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    'Open Sans',
+    'Helvetica Neue',
+    sans-serif;
+}
+
+/*! material table */
+.MuiPaper-root {
+  width: 100%;
+}
+
+.MuiPaper-root.css-1mbunh-MuiPaper-root {
+  box-shadow: none;
+  border-radius: 6px;
+}
+
+.MuiTableCell-root.css-fikjyc-MuiTableCell-root-MuiTablePagination-root {
+  border: none;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

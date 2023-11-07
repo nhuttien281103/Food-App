@@ -1,0 +1,7 @@
+build/*.js
+src/assets
+src/index.js
+src/reportWebVitals.js
+src/setupTests.js
+public
+dist
